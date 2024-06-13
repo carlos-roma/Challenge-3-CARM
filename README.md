@@ -17,7 +17,8 @@
   Runs on the browser.
 
   ## Screenshot 
-  
+  ![Screenshot (277)](https://github.com/carlos-roma/Password-generator/assets/68045584/887c2a1c-af69-4ca5-86a6-52a28aad323d)
+
   ## How to Use This Application
   Clone the repo and open the index on the live server or enter the deployment.
   
