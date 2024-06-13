@@ -15,9 +15,11 @@
   
   ## Installation
   Runs on the browser.
+
+  ## Screenshot 
   
   ## How to Use This Application
-  Follow the instructions to meet your personal criteria.
+  Clone the repo and open the index on the live server or enter the deployment.
   
   ## Contributors
   Personal proyect
@@ -26,8 +28,7 @@
   N/A
   
   ## Deployed Application URL
-  undefined
-  
+  https://carlos-roma.github.io/Password-generator/  
 
   
   ## Questions

@@ -1,4 +1,4 @@
-// Assignment code here
+
 function initPassword() {
   var usergreet = alert("Welcome to the password generator, click to continue");
   var userInput = prompt("Do you want to create a password?");
@@ -38,15 +38,15 @@ function generatePassword() {
     return generatePassword();
   }
 
-  // Character to build password
-  var lowerC = 'abcdefghijklmnopqrstuvwxyz';
+  // Characters to build password
   var upperC = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  var lowerC = 'abcdefghijklmnopqrstuvwxyz';
   var numbers = '0123456789';
   var specialC = '!@#$%^&*()-_+=[]{}|;:\'",.<>?/';
 
   var allCharacters = '';
-  if (includeLower) allCharacters += lowerC;
   if (includeUpper) allCharacters += upperC;
+  if (includeLower) allCharacters += lowerC;
   if (includeNumber) allCharacters += numbers;
   if (includeSpecial) allCharacters += specialC;
 
